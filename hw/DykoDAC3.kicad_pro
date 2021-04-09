@@ -418,6 +418,10 @@
     [
       "00000000-0000-0000-0000-00005fd7659e",
       "DykoDAC3_AudioOut"
+    ],
+    [
+      "1af2884d-d38a-4197-854a-1448546a6237",
+      "DykoDAC3_MCUPower"
     ]
   ],
   "text_variables": {}

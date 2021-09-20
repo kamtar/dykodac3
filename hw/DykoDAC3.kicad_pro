@@ -105,7 +105,8 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997
+        "min_via_diameter": 0.39999999999999997,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [],
       "via_dimensions": [],
@@ -427,6 +428,10 @@
     [
       "1af2884d-d38a-4197-854a-1448546a6237",
       "DykoDAC3_MCUPower"
+    ],
+    [
+      "2444b26e-0432-4e2e-8015-0f21ac44751f",
+      "DA_interface"
     ]
   ],
   "text_variables": {}
